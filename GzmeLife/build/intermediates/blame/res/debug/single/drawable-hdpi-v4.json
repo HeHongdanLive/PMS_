@@ -524,12 +524,12 @@
         "source": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\drawable-hdpi\\umeng_update_close_bg_normal.png"
     },
     {
-        "merged": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\exploded-aar\\PMS\\android-support-v7-appcompat\\unspecified\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
         "merged": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\messenger_bubble_small_blue.png",
         "source": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\exploded-aar\\PMS\\social_sdk_library_project\\unspecified\\res\\drawable-hdpi-v4\\messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\exploded-aar\\PMS\\android-support-v7-appcompat\\unspecified\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_discard.png",
@@ -668,12 +668,12 @@
         "source": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\drawable-hdpi\\umeng_update_btn_check_on_pressed_holo_light.png"
     },
     {
-        "merged": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_stub.png",
-        "source": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\drawable-hdpi\\icon_stub.png"
-    },
-    {
         "merged": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\delet.png",
         "source": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\drawable-hdpi\\delet.png"
+    },
+    {
+        "merged": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_stub.png",
+        "source": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\drawable-hdpi\\icon_stub.png"
     },
     {
         "merged": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",

@@ -108,12 +108,12 @@
         "source": "D:\\Work\\Git\\PMS\\android-support-v7-appcompat\\build\\intermediates\\bundles\\debug\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "D:\\Work\\Git\\PMS\\android-support-v7-appcompat\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "D:\\Work\\Git\\PMS\\android-support-v7-appcompat\\build\\intermediates\\bundles\\debug\\res\\layout\\select_dialog_singlechoice_material.xml"
-    },
-    {
         "merged": "D:\\Work\\Git\\PMS\\android-support-v7-appcompat\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_lines.xml",
         "source": "D:\\Work\\Git\\PMS\\android-support-v7-appcompat\\build\\intermediates\\bundles\\debug\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Work\\Git\\PMS\\android-support-v7-appcompat\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\Work\\Git\\PMS\\android-support-v7-appcompat\\build\\intermediates\\bundles\\debug\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "D:\\Work\\Git\\PMS\\android-support-v7-appcompat\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_icon.xml",

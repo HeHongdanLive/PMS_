@@ -28,12 +28,12 @@
         "source": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\drawable\\shape_bottom_corner_no_top_line.xml"
     },
     {
-        "merged": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red.9.png",
-        "source": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\exploded-aar\\PMS\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_red.9.png"
-    },
-    {
         "merged": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_wxcircle_gray.png",
         "source": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\exploded-aar\\PMS\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_button_red.9.png",
+        "source": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\exploded-aar\\PMS\\social_sdk_library_project\\unspecified\\res\\drawable\\umeng_socialize_button_red.9.png"
     },
     {
         "merged": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\res\\merged\\debug\\drawable\\umeng_socialize_share_video.png",

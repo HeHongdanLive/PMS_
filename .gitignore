@@ -9,6 +9,28 @@ Desktop.ini
 classes/
 gen-external-apklibs/
 
+# GzmeLife
+.gradle/
+.idea/
+Android-PullToRefresh/
+android-support-v7-appcompat/
+build/
+EspTouch_Demo/
+gradle/
+gridlayout/
+library/
+recyclerview/
+social_sdk_library_project/
+xutils/
+.settings/
+assets/
+bin/
+build/
+gen/
+libs/
+
+
+
 # gitignore
 .gitignore
 
@@ -74,4 +96,3 @@ out/
 
 # Keystore files
 *.jks
-#
