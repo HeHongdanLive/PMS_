@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
+        "outputFile": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh\\values-zh.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 95
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 1,
@@ -30,7 +30,7 @@
                     "endOffset": 143
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 1,
@@ -49,7 +49,7 @@
                     "endOffset": 205
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 1,
@@ -68,7 +68,7 @@
                     "endOffset": 262
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 1,
@@ -87,7 +87,7 @@
                     "endOffset": 304
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 1,
@@ -106,7 +106,7 @@
                     "endOffset": 352
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 1,
@@ -125,7 +125,7 @@
                     "endOffset": 394
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 1,
@@ -144,7 +144,7 @@
                     "endOffset": 442
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 1,
@@ -163,7 +163,7 @@
                     "endOffset": 499
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 1,
@@ -182,7 +182,7 @@
                     "endOffset": 548
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 1,
@@ -201,7 +201,7 @@
                     "endOffset": 593
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 1,
@@ -220,7 +220,7 @@
                     "endOffset": 641
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 1,
@@ -239,7 +239,7 @@
                     "endOffset": 689
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_update_string.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 1,
@@ -258,7 +258,7 @@
                     "endOffset": 764
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\build\\intermediates\\exploded-aar\\PMS\\Android-PullToRefresh\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\exploded-aar\\PMS\\Android-PullToRefresh\\unspecified\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 843
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\build\\intermediates\\exploded-aar\\PMS\\Android-PullToRefresh\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\exploded-aar\\PMS\\Android-PullToRefresh\\unspecified\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 904
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\build\\intermediates\\exploded-aar\\PMS\\Android-PullToRefresh\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\exploded-aar\\PMS\\Android-PullToRefresh\\unspecified\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 971
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\build\\intermediates\\exploded-aar\\PMS\\Android-PullToRefresh\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\exploded-aar\\PMS\\Android-PullToRefresh\\unspecified\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 1036
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\build\\intermediates\\exploded-aar\\PMS\\Android-PullToRefresh\\unspecified\\res\\values-zh\\values-zh.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\exploded-aar\\PMS\\Android-PullToRefresh\\unspecified\\res\\values-zh\\values-zh.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 1094
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 1,
@@ -372,7 +372,7 @@
                     "endOffset": 1154
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 1,
@@ -391,7 +391,7 @@
                     "endOffset": 1220
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 1,
@@ -410,7 +410,7 @@
                     "endOffset": 1277
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 1,
@@ -429,7 +429,7 @@
                     "endOffset": 1339
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 1,
@@ -448,7 +448,7 @@
                     "endOffset": 1407
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 1,
@@ -467,7 +467,7 @@
                     "endOffset": 1484
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 1,
@@ -486,7 +486,7 @@
                     "endOffset": 1556
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 1,
@@ -505,7 +505,7 @@
                     "endOffset": 1628
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -524,7 +524,7 @@
                     "endOffset": 1693
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 1,
@@ -543,7 +543,7 @@
                     "endOffset": 1765
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 1,
@@ -562,7 +562,7 @@
                     "endOffset": 1844
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 1,
@@ -581,7 +581,7 @@
                     "endOffset": 1920
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 1,
@@ -600,7 +600,7 @@
                     "endOffset": 1994
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
+                    "file": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\values-zh\\umeng_common_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 1,

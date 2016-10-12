@@ -1171,33 +1171,42 @@ public class SocketTool {
 	 * 从PMS下载数据到手机本地 buf 当前接收到的传来的数据，可以得到此次数据的长度以及数据
 	 */
 	private void upFile(byte[] buf/* , int num */) {
-		Log.i(TAG, "upFile" + buf.toString());
-		int fileLen = DataUtil.hexToTen(buf[1]) + DataUtil.hexToTen(buf[2]) * 256 - 5;
+//      int fileLen = DataUtil.hexToTen(buf[1]) + DataUtil.hexToTen(buf[2]) * 256 - 5;//200160928//fileLen：长度L：功能码、子功能码以及数据域的长度之和
+      //5=功能码+子功能码+客户端地址+帧序号低字节+帧序号高字节=长度L-有效数据
 
-		MyLog.d("收到第" + (DataUtil.hexToTen(buf[6]) + DataUtil.hexToTen(buf[7]) * 256) + "帧,长度=" + fileLen + ",当前接收总长度："
-				+ (numUpNow + fileLen));
-		for (int i = 0; i < fileLen; i++) {
-			bufRecFile[numUpNow + i] = buf[i + 8];
-		}
-		// 40380 40124
-		numUpNow += fileLen;
+      int fileLen = DataUtil.hexToTen(buf[1]) + DataUtil.hexToTen(buf[2]) * 256 - 9;//200160928//fileLen：长度L：功能码、子功能码以及数据域的长度之和
+      //9=功能码+子功能码+客户端地址+(录波文件的长度0~7位+录波文件的长度8~15位+录波文件的长度16~23位+录波文件的长度24~31位)+帧序号低字节+帧序号高字节=长度L-有效数据
 
-		if (receiver != null) { // 界面上实时显示当前下载进度
-			receiver.onSuccess(null, 3, numUpNow, bufRecFile.length);
-		}
+      /** 20160920新增加的 */
+      int allFileLen = DataUtil.hexToTen(buf[6]) + DataUtil.hexToTen(buf[7]) * 256 + DataUtil.hexToTen(buf[8]) * 256 * 256 + DataUtil.hexToTen(buf[9]) * 256 * 256 * 256;
+      for (int i = 0; i < 1037; i++) {
+          Log.i(TAG, byte2HexString(buf[i]));
+      }
 
-		// 接收完毕发送结束指令，否则继续请求数据
-		if (numUpNow == bufRecFile.length) {
-			MyLog.d("请求发送结束帧");
-			PMS_Send(Config.bufFileStop);
-		} else {
-			frmIndex++;
+      Log.i(TAG, "收到第" + (DataUtil.hexToTen(buf[10]) + DataUtil.hexToTen(buf[11]) * 256) + "帧,长度=" + fileLen + ",当前接收总长度：" + (numUpNow + fileLen)+ ",HHD-->总长度：" + allFileLen);
+      for (int i = 0; i < fileLen; i++) {
+//          bufRecFile[numUpNow + i] = buf[i + 8];//20160928//bufRecFile：当前菜谱文件总长度
+          bufRecFile[numUpNow + i] = buf[i + 12];//20160928//bufRecFile：当前菜谱文件总长度
+      }
 
-			MyLog.d("请求第" + frmIndex + "帧");
-			ACK(frmIndex);
-			PMS_Send(Config.bufFileAck, bufACK);
-		}
-	}
+      for (int j= 0;j < bufRecFile.length; j++) {
+//      	Log.i(TAG, "下载的数组【" + byte2HexString(bufRecFile[j])+ "】" );
+      }
+
+      numUpNow += fileLen;// 40380 40124//20160928//fileLen：进度总长度（int）
+      if (receiver != null) {
+          receiver.onSuccess(null, 3, numUpNow, bufRecFile.length);
+      }
+      // 接收完毕发送结束指令，否则继续请求数据
+      if (numUpNow == bufRecFile.length) {//20160928需要修改：帧序号=文件的长度/每帧大小
+          PMS_Send(Config.bufFileStop);
+      } else {
+          frmIndex++;
+          ACK(frmIndex);
+          PMS_Send(Config.bufFileAck, bufACK);//frmIndex（int）=帧序号=bufACK（byte）
+      }
+
+  }
 
 	// private void updateLocalFile() {
 	// File file = new File(Environment.getExternalStorageDirectory()

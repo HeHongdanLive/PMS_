@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\Program Files\\Android\\workspace\\android\\PMS\\gridlayout\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "D:\\Work\\Git\\PMS\\gridlayout\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 2287
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\gridlayout\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "file": "D:\\Work\\Git\\PMS\\gridlayout\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,

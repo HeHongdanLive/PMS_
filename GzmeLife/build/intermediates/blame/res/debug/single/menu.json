@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\build\\intermediates\\exploded-aar\\PMS\\EspTouch_Demo\\unspecified\\res\\menu\\main.xml"
+        "merged": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\res\\merged\\debug\\menu\\image.xml",
+        "source": "D:\\Work\\Git\\PMS\\GzmeLife\\res\\menu\\image.xml"
     },
     {
-        "merged": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\build\\intermediates\\res\\merged\\debug\\menu\\image.xml",
-        "source": "D:\\Program Files\\Android\\workspace\\android\\PMS\\GzmeLife\\res\\menu\\image.xml"
+        "merged": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Work\\Git\\PMS\\GzmeLife\\build\\intermediates\\exploded-aar\\PMS\\EspTouch_Demo\\unspecified\\res\\menu\\main.xml"
     }
 ]

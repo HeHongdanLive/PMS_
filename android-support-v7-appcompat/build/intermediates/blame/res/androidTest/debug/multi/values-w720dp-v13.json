@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\Program Files\\Android\\workspace\\android\\PMS\\android-support-v7-appcompat\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
+        "outputFile": "D:\\Work\\Git\\PMS\\android-support-v7-appcompat\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-w720dp-v13\\values-w720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 127
                 },
                 "from": {
-                    "file": "D:\\Program Files\\Android\\workspace\\android\\PMS\\android-support-v7-appcompat\\build\\intermediates\\bundles\\debug\\res\\values-w720dp-v13\\values-w720dp-v13.xml",
+                    "file": "D:\\Work\\Git\\PMS\\android-support-v7-appcompat\\build\\intermediates\\bundles\\debug\\res\\values-w720dp-v13\\values-w720dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
